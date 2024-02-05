@@ -9,6 +9,8 @@
 - [CompTIA Security+](https://i.imgur.com/OJdygY5.png)
 - [CompTIA Network+](https://i.imgur.com/AeGdPDc.png)
 - [CompTIA A+](https://imgur.com/U5Bsxvu.png)
+- Splunk Certified User (In Progress)
+- Microsoft Certified: Azure Fundamentals (In Progress)
 
 <!--
 <h2>📺 YouTube Tutorials</h2>
