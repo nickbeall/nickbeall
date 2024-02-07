@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Microsoft Azure SIEM Home Lab](https://github.com/nickbeall/AzureSIEMLab)
+  - [Windows Active Directory Home Lab](https://github.com/nickbeall/ActiveDirectoryLab)
 
 <h2>📝 Certifications</h2>
 
